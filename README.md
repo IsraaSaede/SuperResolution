@@ -23,4 +23,6 @@ The Link to the using weights on the <a href="https://drive.google.com/drive/fol
 
 
 # Results
-<img src="results/lr_face.png" width="128"/>
+<img src="results/lr_face.png" width="512"/>
+<img src="results/lr_lion.png" width="512"/>
+<img src="results/download (1).jpg" width="512"/>
