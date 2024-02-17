@@ -23,5 +23,4 @@ The Link to the using weights on the <a href="https://drive.google.com/drive/fol
 
 
 # Results
-
-
+<img src="results/lr_face.png" width="128"/>
